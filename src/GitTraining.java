@@ -1,5 +1,5 @@
 import java.util.Scanner;
-// меняет Programist2
+// меняет Programmist2
 public class GitTraining {
     protected static void startText (){
         System.out.println( "Введите последовательно команды соответсвенно с их описанием\n"
@@ -14,8 +14,8 @@ public class GitTraining {
                 + "команда №9 - удаляет указанную ветку при нахождении вне этой ветки в момент удаления введите только саму команду без указания имени ветки)\n"
                 + "Введите команду №1");
     }
-    //Programist2 stop
-    //Далее меняет Programist1
+    //Programmist2 stop
+    //Далее меняет Programmist1
     protected static void training (){
         String [] command = new String[9];
         command [0] = "git init";
